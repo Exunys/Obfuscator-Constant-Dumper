@@ -1,0 +1,1 @@
+lua Resources/Main.lua
