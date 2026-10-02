@@ -1,4 +1,4 @@
-# Obfuscator Constant Dumper
+# Obfuscator Constant Dumper [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Obfuscator-Constant-Dumper&right_color=grey)](https://github.com/Exunys/Obfuscator-Constant-Dumper)
 ## Download
 ### [1.5.2022] - [Constant Dumper V1.0](https://github.com/Exunys/Obfuscator-Constant-Dumper/releases/download/dumper/Constant.Dumper.rar)
 ## Informaton
